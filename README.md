@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f41ced22-1a9c-4b5c-afaf-a0cdfc640862)
+
 HR Analytics Dashboard
 This repository contains a Human Resources (HR) Analytics Dashboard created using Power BI. The dashboard is designed to provide insights into employee attrition across various metrics, such as age, education, job role, and salary.
 
